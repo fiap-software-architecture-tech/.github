@@ -5,7 +5,7 @@
 
 ## 🎯 Objetivo da Organização
 
-Esta organização reúne os repositórios desenvolvidos pelo **Grupo 277** como parte do **Tech Challenge** do programa de pós-graduação em Software Architecture da FIAP. O objetivo é aplicar na prática os conceitos de arquitetura de software moderna, microsserviços, cloud computing e DevOps através do desenvolvimento de uma solução completa de autoatendimento para lanchonetes.
+Esta organização reúne os repositórios desenvolvidos pelo **Grupo** como parte do **Tech Challenge** do programa de pós-graduação em Software Architecture da FIAP. O objetivo é aplicar na prática os conceitos de arquitetura de software moderna, microsserviços, cloud computing e DevOps através do desenvolvimento de uma solução completa de autoatendimento para lanchonetes.
 
 ---
 
@@ -39,7 +39,19 @@ O Tech Challenge é desenvolvido de forma evolutiva através de 4 módulos, cada
 
 ---
 
-## 👥 Membros do Grupo 277
+## Vídeo Fase 1 - Tech Challenge
+[Disponível no Google Drive](https://drive.google.com/file/d/1g7Sn-VOfrwDRkErXO3EoisZLAg4psrhD/view)
+
+## Vídeo Fase 2 - Tech Challenge
+[Disponível no Google Drive](https://drive.google.com/file/d/1I3kuTuB8rHYfieVRkhryJwcm9AV9dKFI/view?usp=sharing)
+
+## Vídeo Fase 3 - Tech Challenge
+[Disponível no Google Drive](https://drive.google.com/file/d/1BHgr36XaW9gyuWwWTdwwLPk7bCVMNAkS/view?usp=sharing)
+
+## Vídeo Fase 4 - Tech Challenge
+[Disponível no Google Drive](https://drive.google.com/file/d/1BHgr36XaW9gyuWwWTdwwLPk7bCVMNAkS/view?usp=sharing)
+
+## 👥 Membros do Grupo
 
 | Nome | RM | GitHub | Discord |
 |------|-----|--------|---------|
