@@ -49,7 +49,7 @@ O Tech Challenge é desenvolvido de forma evolutiva através de 4 módulos, cada
 [Disponível no Google Drive](https://drive.google.com/file/d/1BHgr36XaW9gyuWwWTdwwLPk7bCVMNAkS/view?usp=sharing)
 
 ## Vídeo Fase 4 - Tech Challenge
-[Disponível no Google Drive](https://drive.google.com/file/d/1BHgr36XaW9gyuWwWTdwwLPk7bCVMNAkS/view?usp=sharing)
+[Disponível no Google Drive](https://drive.google.com/file/d/1kOiVEmUXGD__782U3_ztwqY44GzN8Hwj/view?usp=drive_link)
 
 ## 👥 Membros do Grupo
 
