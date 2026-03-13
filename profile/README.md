@@ -30,12 +30,17 @@ O programa **SOAT (Software Architecture)** é focado em formar arquitetos de so
 
 ### Tech Challenge - Evolução por Módulos
 
-O Tech Challenge é desenvolvido de forma evolutiva através de 4 módulos, cada um adicionando novos requisitos e complexidade:
+O Tech Challenge é desenvolvido de forma evolutiva através de 5 módulos, cada um adicionando novos requisitos e complexidade:
 
 - **Módulo 1**: Arquitetura monolítica com DDD, Docker e Kubernetes
 - **Módulo 2**: Infraestrutura como código (Terraform) e CI/CD
 - **Módulo 3**: Arquitetura serverless com AWS Lambda e escalabilidade
 - **Módulo 4**: Microsserviços, mensageria e arquitetura orientada a eventos
+- **Módulo 5 - Hackaton**: Plataforma de processamento de vídeos
+  - Repositórios:
+    - [video-infra](https://github.com/fiap-software-architecture-tech/video-infra) - Infraestrutura AWS para provisionamento, containers, mensageria e CI/CD
+    - [video-processing-service](https://github.com/fiap-software-architecture-tech/video-processing-service) - Serviço de processamento de vídeos
+    - [video-core](https://github.com/fiap-software-architecture-tech/video-core) - API REST para upload de vídeos, autenticação JWT e orquestração via AWS S3/SQS
 
 ---
 
@@ -50,6 +55,10 @@ O Tech Challenge é desenvolvido de forma evolutiva através de 4 módulos, cada
 
 ## Vídeo Fase 4 - Tech Challenge
 [Disponível no Google Drive](https://drive.google.com/file/d/1kOiVEmUXGD__782U3_ztwqY44GzN8Hwj/view?usp=drive_link)
+
+## Vídeo Fase 5 - Hackton
+- [Video Pipelines](https://drive.google.com/file/d/1yLnyt-AKdUCJzqPXJzTnNdf-E5q8tzC5/view?usp=sharing)
+- [Vídeo Arquitetura](https://drive.google.com/drive/folders/12g943XlMqUmS55fFCR2s9tW2NzSfMbsC?usp=sharing)
 
 ## 👥 Membros do Grupo
 
@@ -73,4 +82,4 @@ Todos os repositórios do projeto estão disponíveis nesta organização. Para 
 Para questões relacionadas ao projeto, entre em contato com os membros do grupo via GitHub ou Discord.
 
 **FIAP - Software Architecture Tech Challenge 2025/2026**  
-**Grupo 277**
+
